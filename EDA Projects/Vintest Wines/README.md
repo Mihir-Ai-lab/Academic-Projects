@@ -2,9 +2,6 @@
 <a name = Section1></a>
 # **1. Introduction**
 
-
-**“Wine is sunlight , held together by water” – Galileo**
-
 Drinking wine in moderation will give you tons of health benefits.
  
 - Polyphenols  - to fight against free radicals which are harmful to your body. 
