@@ -1,6 +1,6 @@
-# My Repo for work with Insaid
-
-## Here is a list of Projects done with Insaid
+# My Repo for Insaid Study Material, Assignments & Projects
+---
+## **Projects**
 
 ### Exploratory Data Analysis
 
@@ -14,3 +14,16 @@
 
 1.
 
+---
+## **Assignments**
+
+
+---
+## **Study Material**
+
+- Statistics
+- Python
+- Data Analytics
+- Data Viz
+- EDA & Data Storytelling
+- Machine Learning Foundation
