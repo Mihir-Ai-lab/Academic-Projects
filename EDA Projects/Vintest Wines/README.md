@@ -74,3 +74,15 @@ However due to limited availability of their Master Sommelier, they intend to us
 |10| Sulphates| A wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant.|
 |11| Alcohol| The percent alcohol content of the wine.|
 |12| Quality| Score between 0 to 10.|
+
+<a name = Section 5-7></a>
+# **5-7. Data Profiling & Pre- Processing**
+
+[Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "Jupyter Notebook")
+
+<a name = Section 8 & 9></a>
+# **8-9. EDA & Summarization**
+
+[Power Point Presentation](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "Power Point Presentation")
+[Presentation Video](https://youtu.be/pVU2uBqi4Kw "Presentation Video")
+
