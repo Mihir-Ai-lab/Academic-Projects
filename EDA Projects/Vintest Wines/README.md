@@ -78,7 +78,7 @@ However due to limited availability of their Master Sommelier, they intend to us
 ---
 # **EDA & Summarization**
 
-- [Power Point Presentation](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Vintest%20Wines/Vintest%20Wines%20Presentation.pptx"Power Point Presentation")
+- [Power Point Presentation](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Vintest%20Wines/Vintest%20Wines%20Presentation.pptx "Power Point Presentation")
 - [Presentation Video](https://youtu.be/pVU2uBqi4Kw "Presentation Video")
 
 ---
