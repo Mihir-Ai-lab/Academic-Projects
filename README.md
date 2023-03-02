@@ -1,4 +1,4 @@
-# My Repo for Work with Insaid
+# My Repo for work with Insaid
 
 ## Here is a list of Projects done with Insaid
 
