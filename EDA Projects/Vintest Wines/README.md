@@ -1,6 +1,5 @@
 ---
-<a name = Section1></a>
-# **1. Introduction**
+# **Introduction**
 
 Drinking wine in moderation will give you tons of health benefits.
  
@@ -18,8 +17,8 @@ Aside from the health benefits of drinking wine, it also provides you with vario
 Probably that is why the Wine industry shows a recent growth spurt & social drinking is on the rise.
 
 ---
-<a name = Section2></a>
-# **2. Problem Statement**
+
+# **Problem Statement**
 
 **The price of wine depends on a rather abstract concept of wine appreciation by wine tasters.**
 
@@ -41,11 +40,7 @@ They are planning to enter the Indian market to make the most out the this recen
 However due to limited availability of their Master Sommelier, they intend to use AI as an Advanced and effective solution to find out the best ingredients that suite the local palate and the weather in the shortest possible time.
 
 ---
-<a name = Section3></a>
-# **3. Installing & Importing Libraries**
-
-<a name = Section4></a>
-# **4. Data Acquisition & Description**
+# **Data Acquisition & Description**
 
 - For the markets in the U.S Vintest has collected data over the past few years that connects human quality of tasting to laboratory-based physiochemical tests.
 
@@ -75,14 +70,16 @@ However due to limited availability of their Master Sommelier, they intend to us
 |11| Alcohol| The percent alcohol content of the wine.|
 |12| Quality| Score between 0 to 10.|
 
-<a name = Section 5-7></a>
-# **5-7. Data Profiling & Pre- Processing**
+---
+# **Data Profiling & Pre-Processing**
 
-[Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "Jupyter Notebook")
+- [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Vintest%20Wines/Vintest%20Wines%20EDA.ipynb "Jupyter Notebook")
 
-<a name = Section 8 & 9></a>
-# **8-9. EDA & Summarization**
+---
+# **EDA & Summarization**
 
-[Power Point Presentation](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "Power Point Presentation")
-[Presentation Video](https://youtu.be/pVU2uBqi4Kw "Presentation Video")
+- [Power Point Presentation](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "Power Point Presentation")
+- [Presentation Video](https://youtu.be/pVU2uBqi4Kw "Presentation Video")
 
+---
+# **Thank you**
