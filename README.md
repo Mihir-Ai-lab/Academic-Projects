@@ -1,29 +1,18 @@
-# My Repo for Insaid Study Material, Assignments & Projects
+# My Repo for Insaid Projects
 ---
-## **Projects**
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis 
 
-[1. Vintest Wines](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "1. Vintest Wines")
+- [Vintest Wines](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "Vintest Wines") - Wine Quality Prediction
 
 ### Machine Learning
 
-1.
+- [AE Corp](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines "AE Corp") - Customer Classification with Machine Learning (Foundation) 
+- Machine Learning Intermediate - [Currently Unavailable](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wine "Currently Unavailable")
+- Machine Learning Advanced - [Currently Unavailable](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wine "Currently Unavailable")
 
 ### Artificial Intelligence
 
-1.
-
----
-## **Assignments**
-
-
----
-## **Study Material**
-
-- Statistics
-- Python
-- Data Analytics
-- Data Viz
-- EDA & Data Storytelling
-- Machine Learning Foundation
+- Deep Learning Foundation - [Currently Unavailable](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wine "Currently Unavailable")
+- NLP - [Currently Unavailable](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wine "Currently Unavailable")
+- CV - [Currently Unavailable](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wine "Currently Unavailable")
