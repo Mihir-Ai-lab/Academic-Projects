@@ -87,7 +87,7 @@ This is the data that we have to predict for future customers.
 ---
 # **Data Profiling & Pre-Processing**
 
-- [Jupyter Notebook status WIP](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Vintest%20Wines/Vintest%20Wine%20EDA.ipyn "Jupyter Notebook")
+- [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/Customer%20Classification.ipynb "Jupyter Notebook")
 
 ---
 # **EDA & Summarization**
