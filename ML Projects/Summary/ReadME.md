@@ -1,5 +1,5 @@
 ---
-# **Introduction**
+#**Introduction**
 ---
 
 We learnt about a few different kinds of Machine Learning Algorithms. :-
@@ -21,7 +21,7 @@ Under this we mainly understood :-
 Based on which we intend to make a summary notebook of what all we learnt. 
 
 ---
-# **Objective**
+#**Objective**
 ---
 
 The main objective of this project is to explore and understand different machine learning algorithms and their applications in solving classification problems. Specifically, we aim to:
@@ -34,7 +34,7 @@ The main objective of this project is to explore and understand different machin
 - Summarize what we have learned about each machine learning algorithm and its potential applications in solving real-world problems.
 
 ---
-# **Data Acquisition & Description**
+#**Data Acquisition & Description**
 ---
 
 - This Data has been provided to us for training and it can be retrieved from the following link <a href = "https://raw.githubusercontent.com/vasudevgupta31/acadamic_datasets/master/loan/loan_train.csv">**link**</a>.
@@ -59,7 +59,7 @@ The main objective of this project is to explore and understand different machin
 |12|**Status**|Wether Loan was approved or not.|
 
 ---
-# **Model Development & Evaluation**
+#**Model Development & Evaluation**
 ---
 
 - [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/Summary/ML_Inter_summary.ipynb "Jupyter Notebook")
