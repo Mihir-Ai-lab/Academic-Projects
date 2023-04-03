@@ -61,5 +61,4 @@ The main objective of this project is to explore and understand different machin
 ---
 # **Model Development & Evaluation**
 
-- [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/Customer%20Classification.ipynb "Jupyter Notebook")
-
+- [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/Summary/ML_Inter_summary.ipynb "Jupyter Notebook")
