@@ -8,7 +8,7 @@
 ### Machine Learning
 
 - [AE Corp](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/README.md "AE Corp") - Customer Classification with Machine Learning (Foundation) 
-- Machine Learning Intermediate - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
+- Machine Learning Intermediate - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/Summary/ReadME.md "Sample Projects with Insaid")
 - Machine Learning Advanced - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
 
 ### Artificial Intelligence
