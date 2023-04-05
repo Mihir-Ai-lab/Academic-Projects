@@ -1,4 +1,4 @@
-# My Repo for Insaid Projects
+# Academic Project Samples
 ---
 
 ### Exploratory Data Analysis 
