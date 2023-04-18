@@ -16,3 +16,8 @@
 - Deep Learning Foundation - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
 - NLP - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
 - CV - [Sample Projects with Insaid](https://github.com/Mihir-Ai-lab/Insaid/tree/main "Sample Projects with Insaid")
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
