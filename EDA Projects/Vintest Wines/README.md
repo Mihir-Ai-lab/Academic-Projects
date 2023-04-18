@@ -28,8 +28,8 @@ There are roughly 269 Master Sommeliers in the world today.
 
 The median sommelier salary in the U.S across 4 levels of certification is $62,000. 
 
-- A beginner sommelier makes roughly 40- 50 Thousand dollars. 
-- At level 2 this number goes to 60-70 Thousnad dollars.
+- A beginner sommelier makes roughly U.S $ 40,000 - 50,000. 
+- At level 2 this number goes to U.S $ 60,000 - 70,000.
   
 <p align="center"><img src="https://raw.githubusercontent.com/insaid2018/Term-2/master/wine%20gif%20term%201%20%26%20Term%202.gif"></p>
 
