@@ -74,8 +74,8 @@ However due to limited availability of their Master Sommelier, they intend to us
 # **Data Profiling & Pre-Processing**
 
 - [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Vintest%20Wines/Vintest%20Wines%20EDA.ipynb "Jupyter Notebook")
-- [Pre-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_preprofile_report.html "Pre-profile report")
-- [Post-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Post-profile report")
+- [Pre-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/EDA%20Projects/Vintest%20Wines/Vintest_preprofile_report.html "Pre-profile report")
+- [Post-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/EDA%20Projects/Vintest%20Wines/Vintest_postprofile_report.html "Post-profile report")
 
 ---
 # **EDA & Summarization**
