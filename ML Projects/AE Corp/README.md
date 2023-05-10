@@ -88,6 +88,8 @@ This is the data that we have to predict for future customers.
 # **Data Profiling & Pre-Processing**
 
 - [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/Customer%20Classification.ipynb "Jupyter Notebook")
+- [Pre-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_preprofile_report.html "Pre-profile report")
+- [Post-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Post-profile report")
 
 ---
 # **EDA & Summarization**
@@ -98,3 +100,5 @@ This is the data that we have to predict for future customers.
 ---
 # **Thank you**
 
+- To look at other projects please [Click Here](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Click Here")
+ 
