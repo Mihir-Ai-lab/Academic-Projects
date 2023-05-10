@@ -23,6 +23,8 @@ The current process suffers from the following problems:
 - Only about 10% of the customers do enough trades for earnings after discounts to be profitable.
 - The company wants to figure out, which are those 10% customers so that it can selectively offer them a discount.
 
+<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Classification.gif"></p>
+
 # **Project Details**
 
 - Co-ordinating with - The marketing department to supplement their campaigns with a more proactive approach.
