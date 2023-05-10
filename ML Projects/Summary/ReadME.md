@@ -33,6 +33,8 @@ The main objective of this project is to explore and understand different machin
 - Build and evaluate models using a loan dataset to predict whether a loan applicant will default or not, and compare the performance of different machine learning algorithms.
 - Summarize what we have learned about each machine learning algorithm and its potential applications in solving real-world problems.
 
+<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Classification.gif"></p>
+
 ---
 # **Data Acquisition & Description**
 ---
