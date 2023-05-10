@@ -100,5 +100,5 @@ This is the data that we have to predict for future customers.
 ---
 # **Thank you**
 
-- To look at other projects please [Click Here](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Click Here")
+- To look at other projects please [Click Here](https://github.com/Mihir-Ai-lab/Academic-Projects/tree/main "Click Here")
  
