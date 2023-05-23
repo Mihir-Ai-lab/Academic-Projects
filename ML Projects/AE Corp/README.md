@@ -103,7 +103,8 @@ The Client requested the Submission file with below mentioned conditions -
 - It should only have 2 columns, 1st column: REF_NO values, and 2nd column: predicted Revenue_Grid values.
 - The submission file should not have column names in the first row.
 
-Based on the requirments the file was generated which can be viewed [Here](https://docs.google.com/presentation/d/1CsFG0YeROn1KKJ1SeQewDlud5mIkT2N/edit?usp=drivesdk&ouid=105176624273780999067&rtpof=true&sd=true "Here")
+Based on the requirments, the file was generated whichcan be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/AE%20Corp/submission.csv "here")
+
 ---
 # **Thank you**
 
