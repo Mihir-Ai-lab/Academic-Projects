@@ -94,11 +94,16 @@ This is the data that we have to predict for future customers.
 - [Post-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Post-profile report")
 
 ---
-# **EDA & Summarization**
+# **Submission**
 
-- [Power Point Presentation status WIP](https://docs.google.com/presentation/d/1CsFG0YeROn1KKJ1SeQewDlud5mIkT2N/edit?usp=drivesdk&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
-- [Presentation Video status WIP](https://youtu.be/pVU2uqi4Kw "Presentation Video")
+The Client requested the Submission file with below mentioned conditions - 
 
+- The submission file should be in the csv format.
+- It should have 2031 rows.
+- It should only have 2 columns, 1st column: REF_NO values, and 2nd column: predicted Revenue_Grid values.
+- The submission file should not have column names in the first row.
+
+Based on the requirments the file was generated which can be viewed [Here](https://docs.google.com/presentation/d/1CsFG0YeROn1KKJ1SeQewDlud5mIkT2N/edit?usp=drivesdk&ouid=105176624273780999067&rtpof=true&sd=true "Here")
 ---
 # **Thank you**
 
