@@ -10,7 +10,7 @@
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+These projects are licensed under the [MIT License](LICENSE).
 
 ## Credits
 
