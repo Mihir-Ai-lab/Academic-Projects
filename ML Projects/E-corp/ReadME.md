@@ -27,7 +27,7 @@ The current process suffers from the following problems:
 
 They want to automate the process of approving or revoking access to a resource according to their role in the company.
 
-<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Classification.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Access%20Control.gif"></p>
 
 # **Project Details**
 
