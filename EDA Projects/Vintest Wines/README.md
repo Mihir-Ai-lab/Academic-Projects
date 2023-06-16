@@ -80,7 +80,7 @@ However due to limited availability of their Master Sommelier, they intend to us
 ---
 # **EDA & Summarization**
 
-- [Power Point Presentation](https://docs.google.com/presentation/d/1CsFG0YeROn1KKJ1SNeQewDlud5mIkT2N/edit?usp=drivesdk&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
+- [Power Point Presentation](https://docs.google.com/presentation/d/1dqqqu3O5GGSYKBcfQrmj_snQUOTRtNXM/edit?usp=drive_link&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
 
 ---
 # **Thank you**
