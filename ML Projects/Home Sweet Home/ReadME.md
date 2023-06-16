@@ -23,7 +23,7 @@ The current process suffers from the following problems:
 - They want to supplement their analysis and prediction with a more feasible and accurate approach.
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Classification.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/House-price-prediction.gif"></p>
 
 # **Project Details**
 
