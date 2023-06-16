@@ -74,7 +74,7 @@ The dataset is divided into two parts: Train, and Test sets.
 ---
 # **Data Profiling & Pre-Processing**
 
-- [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/Customer%20Classification.ipynb "Jupyter Notebook")
+- [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/E-corp/Automatic%20Access%20Authorization.ipynb "Jupyter Notebook")
 - [Presentation](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_preprofile_report.html "Presentation")
  
 ---
