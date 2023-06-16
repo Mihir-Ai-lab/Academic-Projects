@@ -47,9 +47,6 @@ Train Set: The train set contains 137023 rows and 17 columns. The last column pr
 
 Test Set: The test set contains 34257 rows and 16 columns. The test set doesn’t contain the price column.
 
-- The Dataset contains the following columns:
-
-
 The Dataset contains the following columns:
 
 |Id|Column Name|Description
