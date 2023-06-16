@@ -71,9 +71,11 @@ The Dataset contains the following columns:
 # **Data Profiling & Pre-Processing**
 
 - [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Home%20Sweet%20Home/Price%20Predictor.ipynb "Jupyter Notebook")
-- [Pre-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_preprofile_report.html "Pre-profile report")
-- [Post-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Post-profile report")
-- [Presentation](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Presentation")
+
+---
+# **Model Summarization**
+
+- [Power Point Presentation](https://docs.google.com/presentation/d/1yaQwSaxHpJqw8nqsnW5yl29R7w5pPqYx/edit?usp=drive_link&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
 
 ---
 # **Submission**
