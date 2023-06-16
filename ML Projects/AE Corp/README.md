@@ -96,7 +96,7 @@ This is the data that we have to predict for future customers.
 ---
 # **Model Summarization**
 
-- [Power Point Presentation](https://docs.google.com/presentation/d/1CsFG0YeROn1KKJ1SNeQewDlud5mIkT2N/edit?usp=drivesdk&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
+- [Power Point Presentation](https://docs.google.com/presentation/d/1yaQwSaxHpJqw8nqsnW5yl29R7w5pPqYx/edit?usp=drive_link&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
 
 ---
 # **Submission**
