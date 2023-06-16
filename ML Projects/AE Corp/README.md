@@ -94,6 +94,11 @@ This is the data that we have to predict for future customers.
 - [Post-profile report](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/AE%20Corp/AEcorp_postprofile_report.html "Post-profile report")
 
 ---
+# **Model Summarization**
+
+- [Power Point Presentation](https://docs.google.com/presentation/d/1CsFG0YeROn1KKJ1SNeQewDlud5mIkT2N/edit?usp=drivesdk&ouid=105176624273780999067&rtpof=true&sd=true "Power Point Presentation")
+
+---
 # **Submission**
 
 The Client requested the Submission file with below mentioned conditions - 
