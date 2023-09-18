@@ -92,6 +92,10 @@ Although not covered in the analysis conducted so far, collecting data from watc
 These actionable insights and recommendations are based on the findings from the analysis conducted in this project. By implementing these recommendations, Accredian Telecom can enhance its marketing strategies, improve user experience and engagement, address privacy concerns, and explore opportunities in the health analysis domain. This will contribute to the company's growth, user satisfaction, and competitive advantage in the telecommunications industry.
 
 ---
+# **Credits**
+
+I would like to express my gratitude to the entire team , for their invaluable assistance in helping me apply my data science knowledge to real-world problems.
+
 # **Thank you**
 
 - To look at other projects please [Click Here](https://github.com/Mihir-Ai-lab/Academic-Projects/tree/main "Click Here")
