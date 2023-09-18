@@ -27,7 +27,7 @@ The key objectives of this project are as follows:
 
 By achieving these objectives, the project aims to empower Accredian Telecom and its clients with a powerful data-driven dashboard that facilitates targeted marketing, audience understanding, and enhanced user engagement.
 
-<p align="center"><img src="https://raw.githubusercontent.com/insaid2018/Term-2/master/analytics%20gif%20term%201%20%26%20Term%202.gif"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Analytics.gif"></p>
 
 ---
 # **Data Acquisition & Description**
