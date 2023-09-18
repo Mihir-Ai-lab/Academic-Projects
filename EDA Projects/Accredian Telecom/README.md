@@ -43,7 +43,7 @@ The data schema includes the following tables:
 ---
 # **Summary of Findings**
 
-Comprehensive Analysis on the data can be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/AE%20Corp/submission.csv "here")
+Comprehensive Analysis on the data can be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/EDA%20Projects/Accredian%20Telecom/Accredian%20Telecom.ipynb "here")
 
 ---
 # **Actionable Insights & Reccomendations**
