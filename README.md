@@ -8,8 +8,6 @@
 | <h3><strong>Want to optimize your resources and concentrate on the most valuable customers?</strong></h3><br><p align="center">***Classification Project Sample***</p><br> Check out our AE Corp project where we used machine learning to determine which customers should be prioritized for exceptional services.|<p align="center" style="padding-top:20px;padding-bottom:20px;"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Classification.gif" height="200"></p> [AE Corp](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/README.md "AE Corp") - Focus on high-value customers using machine learning classification.
 | <p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/hr.gif" height="200"></p>[Employee Attrition Prediction Model](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/ACS/README.md "Employee Attrition Prediction Model") - Predict and prevent employee attrition with data-driven insights.| <h3><strong>Concerned about employee attrition?</strong></h3><br><p align="center">***Employee Attrition Prediction Model***</p><br> Dive into our Employee Attrition Prediction Model project, where we partnered with the HR Department to leverage data-driven strategies and build a classification model for proactive employee retention. We aim to predict whether employees are at risk of leaving the company, allowing HR to take timely action for a more engaged and satisfied workforce.|
 
-https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/ACS/README.md
-
 ## Ongoing Projects
 | | |
 |:--|:--|  
