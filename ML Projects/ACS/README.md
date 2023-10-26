@@ -52,7 +52,7 @@ Our mission is to leverage these datasets to create a powerful predictive model 
 ---
 ## Summary of Findings
 
-For a detailed analysis of the data, please refer to the [comprehensive analysis here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/ACS/Employee%20Attrition%20Prediction%20Model.ipynb).
+For a detailed analysis of the data, please refer to the [comprehensive analysis here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/9fc6f18460c9690ef463873a0bd20c4e4a074f6a/ML%20Projects/ACS/Employee%20Attrition%20Prediction%20Model%20.ipynb).
 
 ---
 ## **Actionable Insights & Recommendations**
