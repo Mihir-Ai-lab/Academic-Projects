@@ -49,10 +49,7 @@ The Train Set contains 8,523 rows and 12 columns, while the Test Set contains 5,
 
 ## Data Profiling & Pre-Processing
 
-- Jupyter Notebook: [Link](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/BigMart/BigMart_Sales_Prediction.ipynb)
-- Pre-profile report: [Link](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/BigMart/BigMart_preprofile_report.html)
-- Post-profile report: [Link](https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/ML%20Projects/BigMart/BigMart_postprofile_report.html)
-
+- Jupyter Notebook: [Link](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/c683fe12969e2dc17c412d31ba9322731d7485f7/ML%20Projects/Big%20Mart/Big%20mart%20Sales%20Prediction.ipynb)
 
 ## Submission
 
