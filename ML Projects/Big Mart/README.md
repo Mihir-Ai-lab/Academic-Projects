@@ -63,7 +63,7 @@ The Client requested the Submission file with the following conditions:
 - It should contain 2 columns: `Item_Identifier`, `Outlet_Identifier`, and the predicted `Item_Outlet_Sales` values.
 - The submission file should not have column names in the first row.
 
-Based on the requirements, the submission file has been generated and can be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/BigMart/submission.csv).
+Based on the requirements, the submission file has been generated and can be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Big%20Mart/submission.csv).
 
 ## Thank you
 
