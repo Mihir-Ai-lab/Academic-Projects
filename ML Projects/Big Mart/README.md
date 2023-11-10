@@ -1,67 +1,35 @@
-# Sales Prediction for Big Mart Outlets
+# **Sales Prediction for Big Mart Outlets**
 
-## Introduction
+## **Introduction**
 
-Company Introduction - Big Mart Corporation
+**Company Introduction - Big Mart Corporation**
 
-Our client for this project is Big Mart Corporation, a prominent retail organization.
+Big Mart Corporation, a prominent retail organization, has collected 2013 sales data for 1,559 products across 10 stores in different cities. The objective is to build a predictive model to forecast the sales of each product in a particular outlet. This project aims to optimize stock management and sales strategies by understanding the significant product and store attributes influencing sales.
 
-- Big Mart has collected 2013 sales data for 1,559 products across 10 stores in different cities. They have also defined certain attributes for each product and store.
-- The objective is to build a predictive model to forecast the sales of each product in a particular outlet.
-- Big Mart aims to understand which product and store attributes significantly influence sales.
+## **Problem Statement**
 
-Please note that the data may contain missing values as some stores may not have reported all the data due to technical glitches. Appropriate data pre-processing will be required.
+The current challenge for Big Mart Corporation is predicting the sales for each product in various outlets accurately. The goal is to optimize stock management and sales strategies.
 
-## Problem Statement
+## **Project Details**
 
-The current challenge for Big Mart Corporation is:
+- **Collaborating with:** The sales and marketing department to enhance inventory management and marketing strategies.
+- **Our Role:** Building a predictive model using the provided datasets.
+- **Project Deliverables:** Predict the sales of each product in a particular outlet.
+- **Machine Learning Task:** Regression
+- **Target Variable:** Item_Outlet_Sales
+- **Win Condition:** No predefined quantifiable win condition; our goal is to build the most accurate sales prediction model.
+- **Evaluation Metric:** Model performance will be assessed using the Root Mean Square Error (RMSE) value.
 
-- Predicting the sales for each product in various outlets accurately to optimize stock management and sales strategies.
+## **Data Acquisition & Description**
 
-## Project Details
+We are provided with a dataset containing information about products and outlets. The Train Set contains 8,523 rows and 12 columns, while the Test Set contains 5,681 rows and 11 columns. The Test Set does not include the `Item_Outlet_Sales` column, which needs to be predicted.
 
-- Collaborating with - The sales and marketing department to enhance inventory management and marketing strategies.
-- Our Role - Building a predictive model using the provided datasets.
-- Project Deliverables - Predict the sales of each product in a particular outlet.
-- Machine Learning Task: Regression
-- Target Variable: Item_Outlet_Sales
-- Win Condition - No predefined quantifiable win condition; our goal is to build the most accurate sales prediction model.
-- Evaluation Metric - Model performance will be assessed using the Root Mean Square Error (RMSE) value.
+For detailed data profiling and pre-processing, refer to the [Jupyter Notebook](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/c683fe12969e2dc17c412d31ba9322731d7485f7/ML%20Projects/Big%20Mart/Big%20mart%20Sales%20Prediction.ipynb).
 
-## Data Acquisition & Description
+## **Submission**
 
-We are provided with a dataset that contains all the necessary information about products and outlets. This dataset includes the following columns:
+The submission file, generated as per client requirements, can be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Big%20Mart/submission.csv).
 
-- `Item_Identifier`: Unique product ID
-- `Item_Weight`: Weight of the product
-- `Item_Fat_Content`: Indicates whether the product is low fat or not
-- `Item_Visibility`: The percentage of total display area allocated to the product in the store
-- `Item_Type`: The category to which the product belongs
-- `Item_MRP`: Maximum Retail Price (list price) of the product
-- `Outlet_Identifier`: Unique store ID
-- `Outlet_Establishment_Year`: The year in which the store was established
-- `Outlet_Size`: The size of the store in terms of ground area covered
-- `Outlet_Location_Type`: The type of city in which the store is located
-- `Outlet_Type`: Specifies whether the outlet is a grocery store or a supermarket
-- `Item_Outlet_Sales`: Sales of the product in the particular store (this is the target variable to be predicted).
+## **Thank You**
 
-The Train Set contains 8,523 rows and 12 columns, while the Test Set contains 5,681 rows and 11 columns. The Test Set does not include the `Item_Outlet_Sales` column, which needs to be predicted.
-
-## Data Profiling & Pre-Processing
-
-- Jupyter Notebook: [Link](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/c683fe12969e2dc17c412d31ba9322731d7485f7/ML%20Projects/Big%20Mart/Big%20mart%20Sales%20Prediction.ipynb)
-
-## Submission
-
-The Client requested the Submission file with the following conditions:
-
-- The submission file should be in CSV format.
-- It should have 5,681 rows.
-- It should contain 2 columns: `Item_Identifier`, `Outlet_Identifier`, and the predicted `Item_Outlet_Sales` values.
-- The submission file should not have column names in the first row.
-
-Based on the requirements, the submission file has been generated and can be viewed [here](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Big%20Mart/submission.csv).
-
-## Thank you
-
-- To explore other projects, please [Click Here](https://github.com/Mihir-Ai-lab/Academic-Projects/tree/main)
+To explore other projects, please [Click Here](https://github.com/Mihir-Ai-lab/Academic-Projects/tree/main).
