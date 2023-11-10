@@ -10,6 +10,8 @@ Big Mart Corporation, a prominent retail organization, has collected 2013 sales 
 
 The current challenge for Big Mart Corporation is predicting the sales for each product in various outlets accurately. The goal is to optimize stock management and sales strategies.
 
+<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/Academic-Projects/main/Images/Supermarket.gif"></p>
+
 ## **Project Details**
 
 - **Collaborating with:** The sales and marketing department to enhance inventory management and marketing strategies.
